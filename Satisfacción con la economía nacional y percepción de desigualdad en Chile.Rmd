@@ -1,0 +1,10 @@
+---
+title: "Satisfacción con la economía nacional y percepción de desigualdad en Chile"
+author: Esteban Hernández Cáceres, Valentina Astete González, Javiera Wömper García, Alberto
+  Reyes Wagner
+date: "23-07-2020"
+output: html_document
+bibliography: Bibliografia_entrega01.bib
+csl: apa.csl
+---
+
